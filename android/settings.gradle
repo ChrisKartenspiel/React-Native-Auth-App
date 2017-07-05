@@ -1,0 +1,3 @@
+rootProject.name = 'authReact'
+
+include ':app'
